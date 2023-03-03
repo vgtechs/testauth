@@ -3,10 +3,6 @@ const znak = document.getElementById("znak");
 const container = document.querySelector(".container");
 const granted = '<img src="images/granted.png" alt="" class="zn">';
 const denied = '<img src="images/denied.png" alt=""  class="zn">';
-//signInBtn.addEventListener("click", () => {
-  //  container.classList.remove("right-panel-active");
-//});
-
 
 loginform.addEventListener("submit", (e) => {
     e.preventDefault()
