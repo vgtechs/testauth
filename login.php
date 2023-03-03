@@ -9,7 +9,7 @@ if(isset($_SESSION['name'])) {
 }
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
     <meta charset="UTF-8">
     <title>Auth Test</title>
